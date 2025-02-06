@@ -11,5 +11,5 @@ The resulting array is saved to an `output.json` file.
 
    Open your terminal and run:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/crystall297/versa_challenge.git
+   cd versa_challenge
