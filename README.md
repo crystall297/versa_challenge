@@ -7,21 +7,20 @@ Before running this project, make sure you have the following installed:
 ## Installation
 
 1. Clone this repository:
-
-bash
-git clone <your-repository-url>
-cd versa_chanllenge
-
+  ```bash
+   git clone https://github.com/crystall297/versa_challenge.git
+   cd versa_challenge
+  ```
 2. Install the required dependencies:
-bash
-npm install
-
+```bash
+  npm install
+```
 ## Running the Application
 
 Run the application using:
-bash
+```bash
 npm start
-
+```
 This will:
 1. Execute the TypeScript code directly using ts-node
 2. Generate an `output.json` file in the project root directory
