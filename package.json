@@ -1,0 +1,21 @@
+{
+  "name": "big-bang-prime",
+  "version": "1.0.0",
+  "description": "A script to generate numbers based on prime number collision",
+  "main": "src/bigBang.ts",
+  "scripts": {
+    "start": "ts-node src/bigBang.ts"
+  },
+  "keywords": [
+    "prime",
+    "numbers",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.17.17",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}

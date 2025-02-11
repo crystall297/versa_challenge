@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Generated files
+output.json
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env 
